@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452838783 source:c:\users\j\desktop\realprisonramentycoon\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1452839980 source:c:\users\j\desktop\harry chen\prisonramentycoon\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
